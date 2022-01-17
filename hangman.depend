@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1642255275 source:d:\hangman\main.cpp
+	<iostream>
+	<winbgim.h>
+	<graphics.h>
+	<string.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<mmsystem.h>
+
